@@ -1,0 +1,1 @@
+const api_key = "sua_chave_aqui" 
