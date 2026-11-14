@@ -1,1 +1,1 @@
-# Cat Fact API
+# The Cat API
